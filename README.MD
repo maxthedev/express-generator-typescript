@@ -23,6 +23,10 @@ v1.0.0
     
     `git remote add origin git@github.com:YOUR_PRIVATE_DEV_REPO`
     
+    If you get an error, try :
+    
+    `git remote set-url origin git@github.com:YOUR_PRIVATE_DEV_REPO`
+    
     Your you can push your update to your private dev repo (develop branch) & easily manage the staging stage throw git flow (using the release function)
     
 
