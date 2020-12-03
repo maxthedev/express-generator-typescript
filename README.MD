@@ -1,3 +1,5 @@
+v1.0.0
+
 ## Prerequisite
 
 - git
@@ -26,7 +28,7 @@
 
 5. Add production remote
     
-    `git remote add prod git@github.com:YOUR_PRODUCTION_REPO`
+    `__git remote add prod__ git@github.com:YOUR_PRODUCTION_REPO`
     
     Your you can push your fresh public update to your public repo (see usage).
 
