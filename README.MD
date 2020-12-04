@@ -9,8 +9,6 @@ v1.0.0
 
 1. Clone this repo in your project folder :
 
-    `git clone https://github.com/max-2309/express-generator-typescript.git`
-
 2. Install :
 
     `npm install`
